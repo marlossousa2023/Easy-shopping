@@ -120,7 +120,7 @@ button:active{
         width: 100%;
         position: static;
         padding: 50px;
-        margin-top: 100px;
+        margin-top: 0px;
         background-color: rgba(93, 93, 125, 0.16);
     }
 
